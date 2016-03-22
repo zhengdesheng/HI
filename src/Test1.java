@@ -22,6 +22,7 @@ public class Test1 {
 	public static void main(String args[]) {
 		// try{
 		new Jframe();
+			new Jframe();
 		new Jframe();
 		// }catch(Exception e){
 		// e.printStackTrace();
